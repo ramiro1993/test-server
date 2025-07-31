@@ -1,0 +1,21 @@
+html:root {
+    --primary-color: #1976D2;
+    --primary-color-raised-hover-solid: #1E88E5;
+    --primary-color-raised-focus-solid: #64B5F6;
+    --primary-color-dark-color: #0D47A1;
+    --primary-color-light-color: #BBDEFB;
+
+    --script-header-background: #2196F3;
+    --login-header-background: #1976D2;
+
+    --surface-color: #FAFAFA;
+    --background-color: #FFFFFF;
+}
+
+.btn,
+.btn-large,
+.btn-small,
+.btn-flat,
+.card {
+    border-radius: 4px;
+}

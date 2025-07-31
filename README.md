@@ -101,6 +101,12 @@ Additionally each script logs are written to separate file in *logs/processes*. 
 Script-server has bundled configs/scripts for testing/demo purposes, which are located in samples folder. You can
 link/copy these config files (samples/configs/\*.json) to server config folder (conf/runners).
 
+## Modern theme
+
+A fresh theme with updated colors and rounded corners is available under
+`samples/themes/modern`. Copy this folder to `conf/theme` to give the
+interface a more contemporary look.
+
 ## Security
 
 I do my best to make script-server secure and invulnerable to attacks, injections or user data security. However to be
